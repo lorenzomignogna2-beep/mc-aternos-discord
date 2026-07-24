@@ -7,7 +7,7 @@ TOKEN = 'MTUzMDIyMzI0MzQyNjkyMjY2Nw.GfqsgD.85j6kd4jNFIXnipFE7LPmL0WO2I74pWbls-KX
 
 client = discord.Client()
 
-aternos = Client('L0r3u20', password='Lorenzoscuolamedia')
+aternos = Client('L0r3u20', 'Lorenzoscuolamedia')
 
 atservers = aternos.servers
 
